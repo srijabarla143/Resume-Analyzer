@@ -1,0 +1,7 @@
+{
+  "name": "Resume Analyser - AI & n8n Powered Resume Review",
+  "description": "AI Resume Analyser powered by n8n cloud automation workflow. Upload your resume to get instant ATS scoring, keyword matching, and recruiter insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
